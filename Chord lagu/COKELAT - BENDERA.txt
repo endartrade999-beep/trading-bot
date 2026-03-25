@@ -1,0 +1,33 @@
+COKELAT - BENDERA
+
+INTRO RIFF ; (G-E HARM 6X E12) 4X
+
+INTRO RIFF 2 ; 
+(G-E HARM 6X) 3X 
+B-B#-A C-B-B# C#-C-B D-C#-C-B-E 4BAR THN
+
+INTRO RIFF 3 ; A G#-A OCTAVE 3X G A 2X
+
+INTRO MELODI A=DO 2X
+
+SONG ; A B D A E G#-A OCTAVE 2X 
+
+INTRO MELODI A=DO 1X
+
+SONG 2 ; A B D A E G#-A
+                C#m D B A E
+
+BRIDGE ; F#m E A  
+	              F#m E D C#m-B E
+
+CHORUS ; 
+*A E F#m E D C#m B E 2X
+ F#m G# A D E D 4BAR THN
+
+RIIF GTR ; C#-B-A-G#-E 4X A THN 2BAR, INTRO RIFF 3 1X
+SONG 2, BRIDGE, 
+
+CHORUS OUTRO ; * 2X
+F#m G# A D E F#m E D (SYNC D-C#-B-A-F#) 
+F#m E D 
+	 

@@ -1,0 +1,57 @@
+ENTRY LONG
+
+1. H4 ­– Trend
+indikator
+ rsi 14 - oversold 30 
+ ema 13 ; tunggu atau liat apakah sudah di atas ema 13
+ Stoch RSI h4 ; oversold tungg crossing garis biru (TDK SELALU)
+
+Kesimpulan: H4 trend bullish.
+
+2. H1 ­– Momentum
+INDIKATOR
+ rsi 14 - oversold 30 
+ Stoch RSI h4 ; oversold tunggu crossing garis biru
+ macd ; tunggu crossing dan hijau histograf
+ volume ; ada spike buy
+
+Kesimpulan: M15 momentum bullish, namun perlu waspada RSI mendekati jenuh beli.
+
+3. M15 Entry Setup
+indikator ;
+-rsi 14 oversold
+-kena s3 
+-cari bull or hidden divergence
+-lebih aman tunggu break resistance terdekat
+atau harga nyentuh s2
+
+ENTRY SHORT ;
+
+1. H4 ­– Trend
+indikator ;
+- cari bearish, or hidden divergence untuk melihat top nya
+- rsi 14 - overbought 70 - 88 
+- Stoch RSI h4 ; overbought 84 corssing
+- macd ; mulai crossing garis orange
+- di bawah ema 13
+
+2. H1 ­– momentum
+indikator ;
+- di bawah ema 13
+- kena s1 atau tembus
+- membuat lower high dan memantul ke bwh
+- volume spike sell
+
+3. M15 Entry Setup
+indikator ;
+- rsi 14 overbought
+- stochastic rsi overbought crosing
+- membuat lower high dan r2
+- ad spike volume sell
+
+
+
+
+
+
+

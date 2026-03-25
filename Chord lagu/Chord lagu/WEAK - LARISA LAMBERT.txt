@@ -1,0 +1,13 @@
+WEAK - LARISA LAMBERT
+
+SONG ; Bm C 4X
+
+BRIDGE : Dm G C7 D#7
+         Dm G Am-B-C-D
+
+CHORUS ; Bm Em Am D 2X
+	 Bm Em Am C7-B7 Em
+	 Am Am E-D#-D7 G
+
+SONG 4X, BRIDGE, CHORUS
+

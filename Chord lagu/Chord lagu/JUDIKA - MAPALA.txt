@@ -1,0 +1,23 @@
+JUDIKA - MAPALA
+
+INTRO KEY ; Am G F 2X
+
+SONG ; Am G F C-Bm
+       Am G Dm BDIM E
+       Am-B
+
+CHORUS ; C Bm E F Dm G# A
+	 Dm G C F Dm BDIM E 
+
+INTRO KEY ; Am G F 2X
+
+SONG, CHORUS, INTRLDE MELODI
+
+BRIDGE ; Dm G C HTG 3 E-F
+	 Dm BDIM E
+
+CHORUS SLOW ; C Bm E F Dm G# A-B-C#
+	      Dm G C-D-E-F
+	      Dm BDIM E
+
+INTRO KEY ; Am G F 2X A

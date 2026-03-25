@@ -1,0 +1,20 @@
+jessi - zoom
+
+Intro ;  D# (stop 1 bar) 2x
+
+song ;   D# 4x D# 3x (D# Syncop 1 1 2) 2x
+
+chorus : D# C# B 2x (stop 1 bar, kick) 1 x
+
+song 2 ; D# 4x D# 3x (D# Syncop 1 1 2) 
+	            D# 3x Stop D# 3x (D# Syncop 1 1 2)
+              D# 3x Stop D# 3x (D# Syncop 1 1 2)
+
+chorus 2 : D# C# B 2x stop kick 1x
+
+song 3 ; D# 4x D# 3x (D# Syncop 1 1 2) 2x
+               D# 3x stop
+
+
+
+       	

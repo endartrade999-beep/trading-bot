@@ -1,0 +1,24 @@
+PETER CATERA - GLORY OF LOVE
+
+INTRO ; C F B# 2X
+
+SONG : C G G-F-EM F G 2X
+       C F B# D# G# 
+       EM F DM D# G#
+
+CHORUS : C F EM G C AM DM G
+	 AM DM EM G# AM DM G 
+
+INTRO 1X, SONG 1X, CHORUS 1X C 1 BAR
+
+BRIDGE ; F F-G-G# G#-C-D B# D#
+	 F F-G-G# B# C D# F G# B#
+
+
+INT MELODI : TONIC G# OVERTUNE C#
+
+CHORUS 3 : C# F# F G# C# B#M D#M G#
+	   B#M D#M FM A B#M D#M G#
+	   
+OUTRO ; B#M F# G# 4X
+

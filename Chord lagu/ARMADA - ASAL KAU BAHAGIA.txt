@@ -1,0 +1,25 @@
+ARMADA - ASAL KAU BAHAGIA
+
+INTRO KEY ;
+A B G# C#m A B E 2BAR
+
+SONG ;
+/1BAR E A B C#m A B E 2BAR 2X
+
+BRIDGE ; 
+A B G#m C#m D 2BAR B 2BAR
+
+CHORUS ;
+E F#m E/G# C#m A E/G# F#m B 2X 1BAR
+TUTI (G#-A-B E-F#-G#)
+
+SONG 1X, BRIDGE, CHORUS, 
+
+INTRLD ; 
+E C#m F#m B-A G#m C#m F#m B 
+E C#m F#m B MELODI GTR E=DO
+
+CHORUS 2X, MELODI GTR E=DO 4X,
+
+OUTRO ; 
+E C#m F#m B-A G#m C#m F#m B E HBS

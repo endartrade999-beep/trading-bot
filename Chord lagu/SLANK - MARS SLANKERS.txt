@@ -1,0 +1,24 @@
+SLANK - MARS SLANKERS
+
+INTRO GTR ; G
+
+SONG ; G D C G D G
+
+CHORUS ; C G D G-G7
+	                C G D 2BAR
+
+RIFF GTR ; G 8X
+
+SONG ; G D C G D G D-G
+
+CHORUS ; C G D G-G7
+	                C G D TUTI D-B-C-A 4X D STOP
+	                D-G
+
+BRIDGE ; SYNCOP G 1 1 345 2X
+
+INTRLUDE MELODI 1X
+
+CHORUS ; C SYNC 1 C-G D G-G7
+	                C SYNC 1 C-G TUTI D-B-C-A 5X
+	                D STOP D-G

@@ -1,0 +1,17 @@
+Setting yang Direkomendasikan
+
+M5 atau M15 (Entry):
+EMA Cross:
+EMA 5 dan EMA 13 (untuk entry cepat).
+DMI 10 10
+
+EXIT ;
+H1 (Melihat Tren):
+STOCHASTIC RSI ;
+OVERBOUGHT DIATAS 80 ; D%(ORANGE) CROSS K%(BIRU)
+OVERSOLD DIBWH 20 ; K%(BIRU) CROSS D%(ORANGE)
+
+DMI (Opsional): ADX Length 14, gunakan hanya jika tren kuat (ADX > 25).
+
+
+

@@ -1,0 +1,49 @@
+koi mil gaya
+
+Intro : A G A D E A 
+	G C A
+
+SONG : A G 4X
+       B G E A
+
+CHORUS : A E 2X D   	
+	 A D A 2X
+
+SONG 2 : A G 4X
+         B G E A
+
+CHORUS 2 : A E 2X D   	
+	   A D A 2X
+
+MELODI 2X
+
+INT VOC CEWE : A G EM A
+
+INT TEROMPET : A 2X A E A G G G F# A
+
+BRIDGE : A E 2X G D E A-G#-F#-E 2X
+
+CHORUS 3 : A E 2X D   	
+	   A D A 2X
+
+MELODI INT 4X 
+
+INT VOC CEWE ; G A, A D E A 2X 
+	       G C A SYNCOP 2 LMBT 5 CPT
+
+BRIDGE 2 : A E 2X G D E A-G#-F#-E 2X
+
+CHORUS 4 : A E 2X D   	
+	   A D A 2X
+
+SONG 3 : A G 4X
+         B G E A
+
+CHORUS 5 : A E 2X D   	
+	   A D A 4X
+
+OUTRO : A 2X F E A D C A
+	A G 8X A E A D A G
+
+
+

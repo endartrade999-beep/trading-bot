@@ -1,0 +1,30 @@
+entry di;
+DERIVATIVE
+-SILVER 1m (15m s&r, 5m pattern, 1m candle volume)
+avarage naik -  turunnya di bulat kan 0,60%
+sl di 0,15% waktu tradenya bulatkan 45m
+
+-SILVER 5m (1h s&r, 15m pattern, 5m candle volume)
+avarage naik -  turunnya di bulat kan 1%
+sl di 0,15% waktu tradenya bulatkan 1H 
+
+-SILVER 15m (4h s&r, 1H pattern, 15m candle volume)
+avarage naik -  turunnya di bulat kan 2%
+sl di 0,15% waktu tradenya bulatkan 10H
+
+-SILVER 1H (D s&r, 4H pattern, 1H candle volume)
+avarage naik -  turunnya di bulat kan 7%
+sl di 0,15% waktu tradenya bulatkan 3D
+
+-SILVER 4h (W s&r, D pattern, 4H candle volume)
+avarage naik -  turunnya di bulat kan 14%
+sl di 0,15% waktu tradenya bulatkan 14D
+
+SPOT
+-SILVER D (M s&r, W pattern, D candle volume)
+avarage naik -  turunnya di bulat kan 42%
+waktu tradenya bulatkan 80D
+
+-SILVER W (12M s&r, M pattern, W candle volume)
+avarage naik -  turunnya di bulat kan 70%
+waktu tradenya bulatkan 300D

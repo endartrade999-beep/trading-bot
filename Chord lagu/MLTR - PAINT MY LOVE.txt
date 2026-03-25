@@ -1,0 +1,19 @@
+MLTR - PAINT MY LOVE
+
+SONG ;
+B C#m/B 2BAR F# B 1BAR B-B#-G#m C#m F# B
+*B C#m/B 2BAR F# B 1BAR B-B#-G#m C#m D#m E Fm7-5 F# 2BAR
+
+CHORUS ;
+*D G A D-C#-Bm E A
+ D G A Bm E A D 1BAR F# 1BAR
+
+SONG*, CHORUS, 
+BRIDGE ; 
+F C B# F Dm G C7 2BAR
+B# F A Dm Gm F Em A HTG 6
+
+CHORUS*,D G A Bm E A Bm C#m,
+CHORUS NORMAL, 2BAR
+
+OUTRO ; NADA LAGU Em D7 C#m Bm-Bm A D

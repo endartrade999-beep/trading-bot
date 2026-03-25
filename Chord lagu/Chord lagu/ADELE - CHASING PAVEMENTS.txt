@@ -1,0 +1,39 @@
+ADELE - CHASING PAVEMENTS
+
+INTRO ; Cm B# 1X
+
+SONG PIANO ; 
+Cm B# G# G
+G# B# (D#-Cm-G HTG 1BAR)
+
+SONG MUSIC ;
+D# Dm Cm Bm7-5 G# B#
+
+CHORUS ;
+G# G-C-Fm G# 2BAR G-C-G 1BAR
+G# G-C-Fm G# 2BAR G 1BAR
+G# G-C-Fm G# 3BAR G 2BAR D# 2BAR
+
+SONG ;
+Cm B# G# G G# B# 1X
+
+CHORUS, 
+
+BRIDGE ;
+G# G Fm B#
+G# G F B# 1BAR
+
+CHORUS BREAK ;
+G# G-C-Fm G# 1BAR
+G  C-C-Fm G# 1BAR B# 1BAR
+
+CHORUS OUTRO ;
+G# G-C-Fm G# 2BAR G-C-G 1BAR
+G# G-C-Fm G# 2BAR G 1BAR
+G# G-C-Fm G# 3BAR G 2BAR D# 2BAR
+
+
+
+
+
+

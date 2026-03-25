@@ -1,0 +1,21 @@
+ST 12 - PUSPA
+
+SONG ; C Em F C Dm G C G HTG 7
+       G-A-B-C
+
+SONG ; C Em F C Dm G C G
+
+BRIDGE ; F G Em Am
+	 D7 G-F-E-G 1 2
+
+CHORUS ; C F G C Am Dm F G SYNC 123 
+	 C F G C-B Am Dm F G
+
+INTRLD MELODI 1X
+
+BRIDGE ; F G G-F Em Am 
+	 D7 G-F-E-G 1 2
+
+CHORUS 3X STOP 2BAR 
+
+INTLD MELODI 1X

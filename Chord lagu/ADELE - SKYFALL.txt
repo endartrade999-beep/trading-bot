@@ -1,0 +1,21 @@
+ADELE - SKYFALL
+
+INTRO KEY ; 
+Cm G# F-Fm 3X
+Dm THN 1BAR Gm-G7
+
+SONG ; Cm G# F-Fm 3X 
+              Dm THN 1BAR Gm-G7 2X FILL DRUM
+
+CHORUS ; Cm-B# G#-Gm Fm Dm7 G 2X
+
+INTRO ; Cm G# F-Fm 2X
+
+SONG, CHORUS,
+
+BREAKDOWN ; Cm 4X LOOP
+
+BRIDGE ; Fm G-G# 2bar B# Bm7-5 Cm 2bar
+	              B#-G# G-Fm 2bar Dm7 G7
+
+CHORUS 3X Cm-B# G#-Gm Fm STOP G7

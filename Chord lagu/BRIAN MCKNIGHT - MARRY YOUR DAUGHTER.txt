@@ -1,0 +1,26 @@
+BRIAN MCKNIGHT - MARRY YOUR DAUGHTER
+
+SONG KEY ; B F# C#m F#
+           B F# C#-D#-E F#-G#-B#-E B
+
+SONG 2 ; B F# C#m E7
+	 B F# C#-D#-E B F#
+
+CHORUS ; B B# C#m7 D#m7 E F#
+	 B F# C#m D#m E F#
+	 B B# C#m7 Em7
+	 D#m G#m C#-C#m7 B
+
+INTRO KEY ; B B# E MELODI GTR
+
+SONG KEY, SONG 2, CHORUS, 
+
+BRIDGE ; A G# G F# G#m B# B
+
+CHORUS SLOW ; B B# C#m7 D#m7 E F#
+	      B F# C#m 12 D#m 12 E 1 G#
+
+CHORUS OVERTUNE ; C# C D#m F#m7
+	          Fm B#m D#-D#m7 C#
+
+OUTRO KEY ; C# C F# MELODI GTR

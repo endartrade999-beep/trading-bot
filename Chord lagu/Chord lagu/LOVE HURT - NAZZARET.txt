@@ -1,0 +1,24 @@
+LOVE HURT - NAZZARET 
+
+INTRO GTR ; G 2BAR F C 2X 1BAR
+
+SONG ; G Em C D C 2X
+       C G Bm Em Bm 
+       C D C G 1BAR F C
+
+INTRO ; G 2BAR
+
+SONG, INTRO, 
+
+BRIDGE ; Em Bm 4X 
+         A 3BAR D C G Bm Em Bm 
+         C D C 
+	 G 1BAR F C 2X G 2BAR
+
+INTERLUDE MELODI 2X
+
+CHORUS ; C G Bm Em Bm 
+         C D C 
+	 G 1BAR F C 3X
+
+

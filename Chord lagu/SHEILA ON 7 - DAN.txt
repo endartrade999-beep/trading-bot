@@ -1,0 +1,23 @@
+SHEILA ON 7 - DAN
+
+INTRO GTR ; A 4X
+
+SONG ;
+/2BAR D C#m Bm A 2X 
+/2BAR D C#m Bm E F#m E
+
+SONG 2;
+/2BAR D C#m Bm A
+/2BAR D C#m Bm E F#m E
+
+CHORUS ; 
+A C#m Bm G E 2X
+
+INTRO GTR 2X, SONG 2, CHORUS,
+
+INTRLD A=DO 4X, CHORUS 2X G E 2X
+
+OUTRO ; A 4X
+
+
+

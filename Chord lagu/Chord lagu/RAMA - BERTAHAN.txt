@@ -1,0 +1,15 @@
+RAMA - BERTAHAN 
+
+INTRO ; G 2X
+
+SONG ; G Em D C Bm Am D 2X
+
+BRIDGE ; Em D-C Am D 2X 1BAR
+
+SONG, BRIDGE, 2BAR
+
+CHORUS ; G-F#m Em D C-Bm Am D 2X
+
+BREAK ; C 2BAR Cm Am D 2BAR
+
+CHORUS OVER ; A-G#m F#m E D-C#m Bm E 4X

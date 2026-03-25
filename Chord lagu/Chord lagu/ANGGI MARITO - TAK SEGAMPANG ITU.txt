@@ -1,0 +1,28 @@
+ANGGI MARITO - TAK SEGAMPANG ITU
+
+INTRO KEY ; F C Dm C B# 2BAR C
+
+SONG ; F Dm B# Gm C
+       F Dm B# Gm D7 Gm 2BAR
+
+PRE-CHORUS ; Gm Am B# Dm F-F#
+	     Gm Am Dm D#-Dm C SYNC 123
+
+CHORUS ;*F Am C#-Dm, F# Gm Am B# C
+	 F Gm-Am Dm, C A-B# Am Gm C F 1BAR
+
+BRIDGE ; G-A B#-B#m Am SYNC F-G-Am
+	 B#-B#m Dm C F#-Gm 2BAR
+	 A-C#-D-F# Gm 2BAR (C SYNC 1 2 12)
+
+CHORUS SLOW*,C# SYNC 1 2 3 4
+
+CHORUS OVER ; 
+F# G#m D-D#m C# B#-B B#m G#m C#
+F# G#m D-D#m G G#m B#m B C#
+
+F# G#m (G#-D SYNC 12) D#m C# B#-B B#m G#m C#
+D#m Fm G/D#
+
+OUTRO KEY ; G#m C# F#
+	 

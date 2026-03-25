@@ -1,0 +1,1 @@
+pythonw C:\Users\Win10MC\Desktop\auto_bot.py

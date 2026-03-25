@@ -1,0 +1,22 @@
+COKELAT - KEBYAR2 Bm
+
+INTRO ; Bm 3X
+
+SONG ; B E B E B C#m F# 2X
+       E F# G A B THN 2BAR 2X
+       G A F# 4BAR THN
+
+BRIDGE ; F# B C G 4BAR THN
+	 B# 2BAR C 2BAR
+
+INTERLUDE RIFF 4X, MELODI 8X B
+
+SOLO VOC,
+ 
+SONG ; B E B E B C#m F# 
+       E F# G A B 
+       G A B MELODI RIFF
+
+
+
+

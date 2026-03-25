@@ -1,0 +1,21 @@
+KERISPATIH - KESALAHAN YANG SAMA
+
+INTRO KEY ; A
+
+INTRO ; A F#m Bm E
+
+SONG ; 
+A Bm E A-G# F#m Bm B-C#-D E 2X
+
+CHORUS ;
+A Bm E A G#-E-F#m Bm C#m D E 
+A Bm E G#m C#7 F#m-E D C#m F#m Bm E
+
+INTRLD MELODI A =DO 2X B=DO
+
+CHORUS ;
+B C#m SYNC C#-B-B#-G#-F#-E-D#m 
+G-G#m C#m-D#m E F#
+B C#m B#m7-5 D#7 G#m F#-E D#m G#m C#m F# 
+
+OUTRO ; B G#m C#m F# 2X B

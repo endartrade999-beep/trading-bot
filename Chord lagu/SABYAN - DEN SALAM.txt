@@ -1,0 +1,24 @@
+SABYAN - DEN SALAM
+
+INTRO ; E C#m E
+
+SONG ;
+(E B A B, A B 2X E) 2X
+
+CHORUS ;
+E B C#m-A B 2X E
+
+INTRO ; E C#m E
+
+SONG 1X, CHORUS 2X,
+
+INTRLDE ; C#m B A G#m F#m 2BAR B
+
+CHORUS SLOW ;
+E B-C C#m-A B 2X E 2BAR
+
+CHORUS 1X E D# G#-C-C#m A B 2BAR
+
+OUTRO ; A F#m C#m B 
+	G#-A B E
+ 

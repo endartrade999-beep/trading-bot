@@ -1,0 +1,51 @@
+1. Trend atau Range?
+
+Lihat Daily chart:
+📈 Naik terus = UPTREND → Cari BELI aja
+📉 Turun terus = DOWNTREND → Cari JUAL aja
+↔️ Goyang kiri-kanan = RANGE → Trade pinggir aja
+
+2. Dimana Support & Resistance?
+
+Tarik garis horizontal:
+🟢 Support = tempat price bounce naik (minimal 2x)
+🔴 Resistance = tempat price mentok turun (minimal 2x)
+
+Tulis di notes:
+- Support: [harga]
+- Resistance: [harga]
+
+3. Hari ini cari apa?
+
+Kalau UPTREND → Tunggu turun ke support, BUY
+Kalau DOWNTREND → Tunggu naik ke resistance, SELL
+Kalau RANGE → BUY di bawah, SELL di atas
+
+═══════════════════════════════════════
+        SIMPLE TRADING CHECKLIST
+═══════════════════════════════════════
+
+MORNING:
+☐ Trend? [Up/Down/Range]
+☐ Support? [_____]
+☐ Resistance? [_____]
+
+TRADING (Alarm bunyi):
+☐ Price di level? 
+☐ Candle rejection?
+☐ Volume naik?
+   → 3 YES = ENTRY!
+
+ENTRY:
+Entry: [_____]
+SL: [_____] (-1%)
+TP: [_____] (+2%)
+
+EVENING:
+Trade: [_____]
+Result: [_____]
+Note: [_____]
+
+═══════════════════════════════════════
+MAX 2 TRADES/DAY | RISK 1% | FOLLOW RULES!
+═══════════════════════════════════════

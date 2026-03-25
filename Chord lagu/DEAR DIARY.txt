@@ -1,0 +1,27 @@
+DEAR DIARY
+
+INTRO : E
+
+SONG ; E F#M B E 2X
+
+CHORUS : A A7 G#M C#M F#M B7
+	 D7 D7-C# F#M B E
+
+BRIDGE : D A D BM G B
+
+CHORUS 2: A A7 G#M C#M F#M B7
+	  D7 D7-C# F#M B E
+
+INT STRING : F# D#M C# 
+	     D#M FM F#7 B
+	     B FM C#M D#M
+
+CHORUS 3 : A A7 G#M C#M F#M B7
+	   D7 D7-C# F#M B E
+	   A AM E SYNC MELODI
+	   B D D7-C# 
+	   F#M G#M A G#M F#M B 
+
+OUTRO	 : A G#M F#M E
+	   
+	   

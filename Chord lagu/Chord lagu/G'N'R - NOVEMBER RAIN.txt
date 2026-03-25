@@ -1,0 +1,30 @@
+G'N'R - NOVEMBER RAIN
+
+INTRO KEY ; E D#m C#m B 2X 2BAR
+	    E D#m C#m B 3BAR
+
+INTRO 2 ; E C#m B 2BAR 2X
+
+SONG ; E C#m B 2BAR 2X
+       C#m F# B 2BAR 2X
+
+SONG 2; E C#m B 2BAR 3X
+        C#m F# B 2BAR 2X
+
+CHORUS ; E F# 4X
+
+BRIDGE ; D#m E B D#m E C#m
+       	 D#m E B D#m E F# 2BAR
+
+INTERLUDE MELODI 6X B=DO
+
+CHORUS 4X, INTERLUDE MELODI 4X B=DO
+
+SONG ; E C#m B 2BAR 2X
+       C#m F# B C#m F# 
+       B-B#-G#-F# E F# B 2X
+
+BREAK ; Bm 1BAR G A 4X
+
+INTERLUDE MELODI 6X D = DO
+

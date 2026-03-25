@@ -1,0 +1,20 @@
+MYHTA - AKU CUMA PUNYA HATI
+
+INTRO ; F Dm Gm B#
+
+SONG ; F Dm Gm C
+       F D#7 D7 Gm C
+
+PRE-CHORUS ; B# Gm C
+
+CHORUS ; B# Am Dm Gm C F
+	 B# Am7-5 C#-Dm Gm C F THN 4BAR
+
+PRE-CHORUS,CHORUS
+
+INT MELODI F 2X F# 2X 
+
+CHORUS OVER ; B B#m D#m G#m F F#
+	      C B B#-D-D#m 
+	      G#M B# B D#m G#m C# F#
+

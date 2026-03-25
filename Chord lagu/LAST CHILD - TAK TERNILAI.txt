@@ -1,0 +1,30 @@
+LAST CHILD - TAK TERNILAI
+
+INTRO GTR ; E D#m C#m A B
+
+SONG ; E B F#m A B 2X
+
+BRIDGE ; F#m G#m A E
+	 F#m G#m A B 1BAR
+
+CHORUS ; A E F#m E
+	 A E F#m 1BAR A B 
+
+INTRO GTR ; E 2X
+
+SONG 2X, BRIDGE, CHORUS, 
+
+INTRLD MELODI 3X E=DO
+
+CHORUS SLOW ; A E F#m E 
+	      SYNC E-F#-G#-A-B
+	      A E F#m 1BAR A B 
+
+CHORUS ; A E F#m E SYNC E
+	 A E F#m 1BAR A B STOP E
+
+	  
+
+
+
+

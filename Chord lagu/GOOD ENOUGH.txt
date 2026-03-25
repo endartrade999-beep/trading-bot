@@ -1,0 +1,18 @@
+GOOD ENOUGH
+
+INTRO ; B#M F# D# G# 2X
+
+SONG ; B#M F# D#M G# 2X
+       B#M C# D#M G# F# G# 
+       *B#M F# D#M G# 2X
+        B#M C# D#M G# F# G# D#M F#
+
+CHORUS ; B#M F# D#M G# 2X
+         B#M C# D#M G# F# G#
+
+INTRO 2X, SONG*, CHORUS G# 2BAR THN
+
+BRIDGE ; D#M F# B#M G# 
+	 D#M F# G#
+
+INTRO 2X, CHORUS  

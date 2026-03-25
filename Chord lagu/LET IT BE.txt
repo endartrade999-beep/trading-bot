@@ -1,0 +1,24 @@
+THE BEATLES - LET IT BE
+
+intro : C G Am F 
+	        C G F E-D-C 1x
+
+song : C G Am F 
+            C G F E-D-C 2x
+
+Chorus : Am G F C
+	             C G F E-D-C  1x
+
+song 2X, Chorus 2X
+
+Interlude : F E-D-C 
+	                B#-A-G F C DIAM
+	                ORGAN REPEAT
+
+MELODI : 2X
+Chorus 3 : 1x
+song : 2x
+Chorus 4 : 3x
+
+OUTRO : F E-D-C 
+              	B#-A-G F C

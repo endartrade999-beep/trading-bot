@@ -1,0 +1,166 @@
+kesimpulan Timeframe untuk Berbagai Jangka Waktu Trading
+
+Tabel Timeframe Trading (Rekomendasi)
+
+Jangka Waktu Trading	Timeframe Tren	Timeframe Momentum	Timeframe Entry	
+
+1 Hari (Intraday)	H1 		M15 			M5 
+2 hari			H4		H1			M15
+1 Minggu 		D1 		H4 			H1
+2 minggu		W		D1			H4
+3-6 Bulan 		MON 		W1 		 	D1
+Investasi 		Q1 		MN			W1	
+
+MOMENTUM ;
+"GARIS TREN DI TARIK DARI SWING LOW'
+BULLISH DIVERGENCE - ATAS TURUN, BAWAH NAIK
+HIDDEN BULL DIVERGENCE - ATAS NAIK, BAWAH TURUN
+
+"GARIS TREN DI TARIK DARI SWING HIGH"
+BEARISH DIVERGENCE - ATAS NAIK, BAWAH TURUN
+HIDDEN BEAR DIVERGENCE - ATAS TURUN, BAWAH NAIK
+
+--------------------------------------------------------------------------------
+1.harga bottom/bullish pair btc/usd;
+
+tf D1 ; 
+- ada candle bullish engulfing break R1 dan di atas ema 13
+- rsi menunjukan bullish divergence
+- stochastic rsi oversold dan crossing
+- memantul di support 2 
+- adanya spike volume buy
+
+tf W1 ;
+-  ada candle bullish engulfing tembus R1 dan di atas ema 13
+-  rsi menunujkan hidden bull divergence
+-  stochastic rsi oversold dan crossing
+-  memantul di support 1
+-  volume spike naik
+-  macd menunjukan crossing grs biru di harga 2,213
+   serta histograf buy mulai naik 
+
+tf Monthly ;
+- ada candle bullish engulfing break r1 dan di atas ema 13
+- terkena R2 menjadi S1 - memantul
+- membuat HL 2
+- rsi berada di kisaran 40
+- stochastic rsi crossing grs biru di area 7.18
+- macd menunjukan crossing grs biru di harga 539 
+  serta histograf buy mulai naik 
+
+2. harga peak/bearish pair btc/usd ;
+
+tf D1 ;
+- ada double top
+- ada bearish engulfing di bwh ema 13, mulai membuat LH 2
+- rsi menunjukan overbought dan membentuk bearish divergence
+- stochastic rsi overbought di area 87 serta crossing grs orange
+- macd crossing garis oarnge di area 1300
+
+tf w1 ;
+- ada double top
+- ada bearish engulfing dan membuat LH 2
+- rsi menunjukan overbought dan membentuk bearish divergence
+- stochastic rsi menunjukan crossing grs orange di area 50
+- macd juga crossing garis orange di area 9000
+  serta histograf sell mulai turun
+
+tf monthly ;
+- ada double top
+- mulai membuat LH 2 dibwh ema 13
+- rsi menunjukan bearish divergence dan overbought di area 71
+- macd crossing garis orange di area 9.800 
+  serta histograf sell mulai turun
+
+-------------------------------------------------------------------------------
+#pair btc/usd#
+
+A. entry long ;
+h4 tren ; bullish
+- ada candle bullish engulfing dan diatas ema 13
+- membentuk HL 2 dan 3 DAN HH
+- double bottom
+- rsi di atas 50 
+- macd crossing garis biru dan mulai ada histograf buy
+
+h1 momentum ; bullish
+- tembus R2 dan membuat S1 HL DAN HH
+- macd sdh crossing garis biru di area 433
+
+m15 entry ; 
+- rsi menunjukan hidden bull divergence
+- macd crossing garis biru di area 334
+- adanya spike volume
+- liat dulu area s1 apakah hit 
+  tapi liat dulu apa pegerakannya membuat LH 2, 
+  kalau tdk jgn entry dlu, tunggu membuat LH 2,
+
+B. entry short ;
+h4 tren - bearish
+- ada candle bearish engulfing dan dbwh ema 13
+- membentuk LH lbh rendah dari yg pertama
+- volume sell spike
+- ada double top
+- rsi menunjukan bearish divergence
+- macd crossing garis orange dan mulai ada histograf sell
+
+h1 momentum - bearish
+- stochastic rsi sdh di area 95 dan crossing garis orange
+- macd di area 763 crossing garis orange
+- rsi menunjukan bearish divergence
+
+m15 entry ;
+- membentuk LH 2 DAN 3
+- rsi overbought dan membentuk bearish divergence
+- macd crossing garis orange di area 1,164
+
+-----------------------------------------------------------------------
+#area ranging,side away btc/usd#
+C. h1 - tren - bullish
+entry long ;
+- ada candle bullish engulfing dan diatas ema 13
+- membentuk HL 2
+- rsi di atas 50 
+- stochastic rsi crossing grs biru di area 50
+- macd crossing garis biru dan mulai ada histograf buy
+
+m15 momentum - bull
+- ada spike volume buy
+- ada double bottom,break R1 membuat HL 1
+- rsi di area 50
+- stochastic rsi crossing grs biru di area 50
+- macd crossing grs biru di area 73
+
+m5 entry - bull
+- ada candle bullish engulfing di atas ema 13
+- membuat HL 2
+- rsi ada hidden bull divergence
+- stochastic rsi crossing grs biru area 25
+
+D. H1 - tren - bearish
+entry short ; bearish
+- ada double top, membuat LH 2 lbh rendah, tdk break r1
+- rsi menunjukan bearish divergence diarea 80 ke atas
+- macd crossing grs orange di area 1,100 dan 
+  sell histograf mulai ada
+
+m15 - momentum - bearish
+- ada double top, tdk break r1 dan r2
+- stochastic crossing grs orange di area 93 overbought
+
+m5 entry ; 
+- r1 dan r2 tdk break, ada candle sell saat hit r2
+- rsi di area 64 overbought
+- stochastic rsi di area 91 crossing grs orange overbought
+- macd crossing grs orange di area 187 
+  histograf sell mulai muncul
+-----------------------------------------------------------------------
+
+cari bottom di spot
+- liat rsi di weekly rang 48 liat trn atau naik, ada divergence atau tdk
+- di D1 liat price action LH nya DAN HH NYA, dan tembus r1 atau tdk kalu tdk msh turun
+
+indikator bottom ;
+RSI - d1, HRS MLWTI 50 atau di range 34
+stochastic rsi - w1,d1,h4, m15
+macd - D1,H4

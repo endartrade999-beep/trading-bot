@@ -1,0 +1,31 @@
+RATU - DEAR DIARY
+
+INTRO : E A/E 2x
+
+SONG ; E A/E 2x F#M B E 2X
+
+CHORUS : 
+A A7 G#M C#M F#M B7
+D7 D7-C# F#M B E
+
+BRIDGE : D A D BM G B
+
+CHORUS 2: 
+A A7 G#M C#M F#M B7
+D7 D7-C# F#M B E 2bar
+
+INT STRING : 
+F# B/F# 2x D#M C# 
+D#M FM F#7 B 1bar
+B FM C#M D#M 3bar
+
+CHORUS 3 : 
+Am A G#M C#M F#M B7
+D7 D7-C# F#M B 
+A AM E (SYNC MELODIE-F#-G#-B-G#-C# 1bar)
+B D D7-C# 
+F#M G#M A G#M F#M B 3bar htg 3
+
+OUTRO	 : A 1bar G#M-F#M-E
+	   
+	   

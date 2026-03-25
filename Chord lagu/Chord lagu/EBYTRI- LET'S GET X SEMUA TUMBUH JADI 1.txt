@@ -1,0 +1,66 @@
+EBYTRI- LET'S GET X SEMUA TUMBUH JADI 1
+
+INTRO ; SYNCOP F# B 
+	B G-F# B G-F# 4X
+
+CHORUS ; Bm7 F# 4X
+
+SONG ; Bm7 G Em F#m 2X
+       *Bm7 Em F# 4X
+
+SONG 2 ; Bm7 G Em F#m 2X
+	 G Em F# Bm7 
+	 (MELODI GTR) G#-G D#-Em F# 
+
+CHORUS 8X
+
+--- SEMUA JADI SATU -----
+
+INTRO MELODI Bm 2X C#m 2X
+
+CHORUS INT ; C#m F#m B G#m 4X
+
+SONG ; C#m F#m THN 3BAR G#7 C#m 2X
+
+CHORUS ; F#m B G#m C#m F#m G# C#m-C#7
+	 F#m B G#m C#m F#m G#
+
+CHRS INT 2X
+
+SONG 2 ; C#m SYNC (1 2 3 1 23) F#m (SAME) THN 3BAR 
+	 G#7 (SAME) C#m (SAME) E-G# (OKTAVE)
+	 SAME SYNC (C#m E7 F#m G#7 C#m Fm)
+
+CHORUS, A G# SYNC C#m 
+
+BRIDGE ; C#m E7 A-G#m C#m E7 A
+
+CHORUS SYNC ; 
+Gm HTG 4 C SYNCOP (12 12) 
+Am HTG 4 Dm (SAME) Gm HTG 4 Am HTG 4
+Dm HTG 4 F#m SYNCOP ( 1 2 )
+D-E-F HTG 3 A-B#-C 
+Am Dm Gm A B#
+
+CHORUS OUTRO ; 
+Gm C Am Dm Gm A Dm F# SYNC ( 1 2 ) D-E-F
+C Am Dm Gm A Gm F Em SYNC A-C-D
+
+INTRO MELODI Dm 6X 
+
+OUTRO ; SYNCOP B B# F# F F-E HTG 4
+	TUTTI 
+
+	  
+	  
+	  
+	 
+	 
+
+	 
+       
+
+
+
+
+

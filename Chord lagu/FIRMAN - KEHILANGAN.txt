@@ -1,0 +1,34 @@
+FIRMAN - KEHILANGAN
+
+INTRO KEY ;
+Bm B#m7-5 Bm D-E-F# MLDI
+Bm B#m7-5 Bm-F#-E-D-B
+
+SONG ;
+Bm A D 2BAR Em D#m7-5 Em 2BAR
+A D C#-Bm-B#m 1BAR Bm-F#-E-D-B
+
+SONG 2 ; 
+Bm A D 2BAR Em D#m7-5 Em 2BAR
+A D C#m F#m Bm 2BAR
+
+BRIDGE ;
+A D C#m F# Bm 2BAR
+A D G Em F#
+
+CHORUS ;
+Bm Em A D F#
+Bm Em A D 2BAR
+Em F# (Bm-F#-E-D-B)
+
+INTRLD MELODI 1 D=DO 2X, MLDI 2 D=DO 4X
+
+BRIDGE, 
+
+CHORUS OUTRO ;
+Bm Em A D F# 2X
+Bm Em A D 2BAR
+Em F# Bm 2X Bm
+
+
+

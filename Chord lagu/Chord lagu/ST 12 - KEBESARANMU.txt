@@ -1,0 +1,34 @@
+ST 12 - KEBESARANMU 
+
+INTRO ; G Cm 2X
+	INTRO GTR 2X
+
+SONG ; 
+G Bm Em Bm 2BAR
+C D Bm Em Am-A7 D
+
+INTRO KEY ; G Cm
+
+SONG ; 
+G Bm Em Bm 2BAR
+C D Bm-D# Em Am D G D 
+
+CHORUS ;
+G D Em Bm C D G D 2X
+
+INTRLD MELODI 4X G = DO
+
+CHORUS ; G D Em Bm C D G D 2X G 1BAR
+	 TUTI E-F#-G#-A B-C#-A
+
+CHORUS OVER ; 
+A HTG 5 C#-F F#m C#m D E A E
+A E-F-F#m C#m D E A E
+
+CHORUS OVER 2X Bm-D E
+
+OUTRO ; Bm 2BAR C#m 2BAR D E A
+
+
+
+      

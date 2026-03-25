@@ -1,0 +1,14 @@
+metalica
+
+intro : clean 12x ke 13 lgsg dist
+
+dist 1 : 4x
+
+dist 2 : 12x
+
+habis melodi : Em 8x F# 8x
+
+habis reff 2 : intro gtr 2x ke 3 masuk drum 
+	 	total 8x 
+
+outro : 18x

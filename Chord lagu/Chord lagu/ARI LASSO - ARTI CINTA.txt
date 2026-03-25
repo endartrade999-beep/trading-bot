@@ -1,0 +1,28 @@
+ARI LASSO - ARTI CINTA
+
+INTRO KEY ; D C#m 1X
+
+SONG ; D Bm C#m 2X RIFF GTR
+       D Bm C#m RIFF D Bm C#m
+
+BRIDGE ; Bm B# Bm G# A 2BAR
+
+CHORUS ; D F# Bm B7 Em A G-A-C#
+	 D F# Bm B7 Em A 1BAR
+
+SONG ; D Bm C#m RIFF D Bm C#m
+
+BRIDGE SYNC A-B#-G E-G-B#-A
+
+CHORUS, INTRLD MELODI F=DO 2X D=DO 1X
+
+BRIDGE, SYNC A-B#-G E-G-B#-A 2X
+
+CHORUS ; D F# Bm B7 Em A G-A-C#
+	 D 12345 SYNC F#-G-A B-C#-Bm
+`	 B7 Em A 1BAR 
+
+OUTRO ;  D Bm C#m
+	 
+
+

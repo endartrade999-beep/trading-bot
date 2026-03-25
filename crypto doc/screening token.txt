@@ -1,0 +1,16 @@
+screening token 
+
+tf w1 ;
+
+1 - 100
+- pepe 54%
+- wif 46%
+
+101-200
+- pnut 89%
+- mog 84%
+
+201-300
+- daku 122%
+- goat 107%
+

@@ -1,0 +1,23 @@
+Kontakt 6.4.2 Opsi Lengkap 225+ (exe, vst, aax 64 terbatas)
+
+instal Native Access dan daftarkan akun pengguna di Native Instruments.
+tutup itu.
+
+Jalankan simulator versi sebelumnya jika Kontakt tidak diinstal
+instal Kontakt Setup PC 6.4.2.exe
+
+
+jalankan Kontakt_Library_Enabler x86 atau x64 untuk mengaktifkan pengunduhan melalui Native Access.
+sertakan alat "Tambahkan Library.exe" yang digunakan untuk perpustakaan eksternal.
+pintasan dilakukan di desktop Anda.
+
+buka Native Access, atau Library manager di kontakt,
+Anda akan melihat semua pustaka dalam produk yang diinstal, klik demo/instal ulang.
+perpustakaan akan menampilkan demo saat dipasang di Native Access tetapi sepenuhnya tidak terkunci di Kontakt Full Options. di Demo dari Kontakt Player saja.
+Anda juga dapat memperbarui yang Anda miliki jika ditampilkan di "uptates yang tersedia".
+
+Pengaktif Privasi Instrumen Asli memotong semua pelacakan data untuk Aplikasi Instrumen Asli.
+itu adalah pilihan pengguna opsional.
+
+Edisi Bob Dule Dikemas & Ditulis agar mudah digunakan. 21/09/2020
+apa yang bisa didownload?

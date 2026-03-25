@@ -1,0 +1,24 @@
+KERISPATIH - TERTATIH
+
+SONG ; D C# Bm A G F# E A
+       D C#-B# Bm A G F# E A
+
+BRIDGE ; F#m G Bm A
+	 F#m G A THN 4BAR
+
+CHORUS ; B#-B G#m D#m C#m F#
+	 B A G# C#m B7 F# C#m F#
+
+INTRO KEY ; E 2BAR SYNCOP
+
+BRIDGE OVER ; G#m A C#m B
+	      G#m A B C THN 2 BAR
+
+INTERLUDE MELODI 4X THN 2BAR E F# SYNCOP 123 123
+
+CHORUS ; B SYNC G#m SYNC D#m C#m F#  
+         B A G# C#m B7 F# E F#
+
+CHORUS OUTRO ; B#-B G#m D#m C#m F#
+	       B A G# C#m B7 F# C#m F#
+	       B 2BAR E F# B

@@ -1,0 +1,29 @@
+ONCE - SYMPHONY YANG INDAH (D)
+
+Intro : D-C# Bm-A G-F# Em A D
+
+Song : 
+D Am C G D 2x
+Bm G#M7b5 A 2BAR Am F# G 2BAR A7-E-A
+SAME 2x
+Bm G#M7b5 A 2BAR Am F# G 2BAR A7-E-A
+Em A D
+
+Bridge : D C# Bm A Em C A 2x 4BAR
+
+CHORUS : *D A Bm G#M7b5 A 
+          D A G A G 2BAR D stop 2BAR
+
+INTERLUDE : MELODI GTR(G =DO) Am C G D 2x
+            Bm Em A F#m G 
+            Stop 2bar
+
+Bridge slow ; 
+D C# Bm A Em C C#-D-E-F#-G-E-D  
+D C# Bm A Em C A 2 BAR  
+SYNCOP G(12) G-A(1234)
+
+CHORUS*, D A G A Bm A
+CHORUS ;
+D A Bm G#M7b5 A SYNCOP G-A
+D A G A Bm C# G A D

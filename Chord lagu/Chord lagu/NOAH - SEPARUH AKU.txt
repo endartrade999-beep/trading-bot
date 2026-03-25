@@ -1,0 +1,28 @@
+NOAH - SEPARUH AKU
+
+INTRO DRUM 4X
+INTRO KEY ; D 4X
+
+INTRO ; (RIFF C#-D-A) 6BAR Em G 2X
+       *Bm C#-D Em G 2X 
+
+SONG  ; Bm Em G A, Bm C#-D Em G A
+
+BRIDGE ; 
+RIFF GTR PTK
+(G-A E-A F#-A, G-A F#-A E-A F#-A 2BAR)
+(G-A E-A F#-A G-A E-G F#-E-C# 2BAR)
+Em A Bm A D C#m Bm  
+Em A D G C F#
+
+CHORUS ; 
+B D#m G#m F#  
+B D#m E-D#m C#m F# 
+
+INTRO* 1X, SONG, BRIDGE, 4BAR
+
+CHORUS, INTERLUDE ; E 4X, CHORUS 2X
+
+MELODI B = DO 
+
+

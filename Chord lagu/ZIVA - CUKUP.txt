@@ -1,0 +1,28 @@
+ZIVA - CUKUP 3/4
+
+SONG KEY ;
+/4BAR F# D#m B Bm F# 2BAR D7-C#7
+/4BAR F# D#m B Bm F# 2BAR B C#7
+
+PRE-CHORUS ;
+/2BAR D#m C# HTG 4 B#-B B#m HTG 4
+/2BAR D-D#m C# 1BAR B# 1BAR B Bm7 4BAR
+
+CHORUS ;
+/2BAR F# Fm D#m C# B#-B B#m 1BAR D#m G#m C#
+/2BAR F# Fm B#-D#m C# 1BAR Cm7-B7 
+B#m-D#m G#m C# HTG 5 D-D#m
+
+BRIDGE ;
+/2BAR D#m Dm7-5 C#7 Cm7-5
+/2BAR B B#m D#m D STOP HTG 3
+SYNC F#-B G#-B#-B-C-C# 2BAR
+
+CHORUS KEY ;
+/2BAR F# Fm B#-D#m C# B#-B B#m-D#m 
+SYNC G#m-B#-B-C-C# HTG 3 D#
+
+CHORUS OUTRO ;
+/2BAR G# TUTI (C#-C-B#-G#-G D# CP-C#) 
+C Fm D# 1BAR Dm-C#7 Cm Fm B#m D# HTG 5 E-Fm 2BAR
+B#6 1BAR B#7 1BAR B#m D#7 G# HBS

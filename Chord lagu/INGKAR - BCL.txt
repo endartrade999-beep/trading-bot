@@ -1,0 +1,27 @@
+INGKAR - BCL
+
+INTRO MELODI 2X E
+
+SONG ; C#m G# A E-D# 2X
+
+INTRO 1X
+
+SONG 2 : C#m G# A E-D#
+	              C#m G# Am 
+
+CHORUS ; 
+C#m F#m B E-D#
+C#m F#m A-Am STOP HTG 4
+
+INTRO 1X
+
+SONG 2 1X, CHORUS
+
+INTERLUDE MELODI E = Do ke F = Do
+
+CHORUS OVER ; 
+Dm Gm C F-E
+Dm Gm B#-B#m 2X STOP HTG 4
+
+SONG OUTRO ; Dm Am B# F-E
+

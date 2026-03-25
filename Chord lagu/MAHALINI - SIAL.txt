@@ -1,0 +1,26 @@
+MAHALINI - SIAL G
+
+INTRO KEY ; G A D G A 1BAR
+
+SONG ; B A E C-C#m 2BAR F# 2X
+ 
+PRE-CHORUS ; D#m E C-C#m 2BAR D#
+
+CHORUS ; 
+G# 2BAR G-Fm C# 2BAR C-B#m D# 2X
+Fm D# G# HTG 6 B#-B
+
+SONG 1X, PRE-CHORUS, CHORUS, 
+DI D# HTG 2 MELODI G-G#-B#-C-D#
+
+BRIDGE ; 
+E D#m G#m C#m 2BAR D# 2BAR
+SYNC D# 1234567
+
+CHORUS OUTRO ; 
+G# 2BAR G-Fm C# 2BAR C-B#m D#
+G# 1BAR STOP E-Fm D#-G#m C# 2BAR C-B#m D#		
+Fm D# G#-G-Fm-D#-C# 1BAR D#  
+
+
+

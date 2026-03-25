@@ -1,0 +1,37 @@
+hutang - floor88 
+
+Intro Key : G#m A G#m
+	                G#m A C#m
+
+Intro : C#m B G#m C#m (B Hit2) 
+	         C#m B G#m C#m 
+
+Song : C#m B G#m C#m (1 2 1 2 3/4/5)
+            C#m B Cm C#m (1 2 3/4)
+
+Bridge : F#m E G#m 
+	           (C#-D#-E) (C#/D#/E)
+	            F#m E G#m  
+	           (G#-F#-E(Hit2)-D#)
+ 
+Chorus :
+C#m B G#m C#m (B Hit2) 
+C#m B G#m C#m (G#-B-C#)
+C#m B Cm C#m (B Hit2)
+A B G#m C#m (C#-B-A)
+A G# C#
+
+Interlude : (C#m 4 bar) melody A C#m 2x A G#
+
+Intro : C#m B G#m C#m (1 2 3/4/5)
+
+Bridge II : F#m E G#m C#m
+	               F#m E G# 
+	              (G#-F#-E(Hit2)-D#)
+
+Chorus :
+C#m B G#m C#m (B Hit2) 
+C#m B G#m C#m (B Hit2)  
+C#m diam (B Hit2)
+A B G#m C#m (C#-B-A)
+ G#m C# (tahan 2 bar) F#m G#m C#

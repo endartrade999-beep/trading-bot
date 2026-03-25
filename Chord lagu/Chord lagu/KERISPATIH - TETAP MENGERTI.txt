@@ -1,0 +1,25 @@
+KERISPATIH - TETAP MENGERTI
+
+INTRO ; D Bm C#m 2X
+
+SONG ; 
+D 4BAR Bm A F#-G Em A-G F#m Bm C A
+(D 4BAR C#-Bm A F#-G Em A-B#-Bm A G# A) 2BAR
+
+CHORUS ; 
+D-Dim C#-Bm A F#-G F# Em A B-C#
+D-Dim C#-Bm A G F#-Em 2BAR F#m G A
+
+INTRO ; D Bm C#m
+
+SONG ; (SYNC F# A-B#-B) A G# G F#
+
+INTRLD MELODI B=DO
+
+CHORUS ; 
+(SYNC G-A-B# 2BAR) Bm A F#-G F# Em 
+SYNC A-B-C C-B-A A B# (SYNC F# A-B#-B)
+A G F# Em F#m G G# A
+
+OUTRO ; D Bm C#m 2X
+

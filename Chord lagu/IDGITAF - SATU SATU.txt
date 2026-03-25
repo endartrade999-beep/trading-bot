@@ -1,0 +1,28 @@
+IDGITAF - SATU SATU
+
+INTRO GTR ; E 2X
+
+SONG ;
+E 3BAR A 1BAR G#-F#m E A F#m E 1BAR LICK 
+E 3BAR A 1BAR G#-F#m E A F#m B 2BAR
+
+CHORUS ;
+E 3BAR A 1BAR G#-(D/F#-F/F#-E/F#-F/F#) F#m B 2x 1bar
+A-B, /1BAR A G#m F#m E, A G#m F# HTG 2 B E 1BAR
+
+INTRO ; E C#m A E 2X
+
+SONG 2 ;
+E 3BAR A STOP F#m G#m A F#m B 1BAR
+
+CHORUS 1BAR, INTRLUDE E=DO 4X
+
+BRIDGE ; 
+A G#m F#m E-E7, A G#m F# HTG 2 B E 1BAR
+A G#m F#m (C#m HTG 2 SYNC E-C# A 12 3)
+A G#m F# HTG 2 B (E SYNC F-F# F#m B E)
+(E SYNC F-F# STOP F# B 1BAR) E BLUES
+
+
+
+

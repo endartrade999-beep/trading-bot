@@ -1,0 +1,30 @@
+GLEN FREDLY - KASIH PUTIH 
+
+INTRO ; A C#m D 2X D THN 4BAR
+
+SONG ; D C#m Bm 2X
+       G A Bm Em A
+
+CHORUS ; D F#m G B#m7-5
+	 Bm A-G-C#-D
+	 D F#m G B#m7-5
+	 Bm A-G-F#-Em A D
+
+INTRO ; D C#m Bm 1X
+
+SONG : D C#m Bm G A Bm Em A
+
+CHORUS, BACK CEWE ; F#m Bm Em
+		    F#m Bm C THN 2BAR
+
+CHORUS CEWE ; F Am B# C#m7-5
+	      Dm C-B#-E-F 2X F 2BAR CROSS B
+
+CHORUS : E G#m A Cm7-5
+	 C#m B-A-D#-E
+	 E G#m A Cm7-5
+	 C#m B-A-G#-F# B THN 1BAR
+	 REPEAT E D#m C#m E	
+	      
+	      
+		

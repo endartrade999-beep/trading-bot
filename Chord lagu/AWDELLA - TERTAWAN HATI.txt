@@ -1,0 +1,28 @@
+AWDELLA - TERTAWAN HATI 
+
+INTRO KEY ; F#m7 ESUS DaDD9 2X
+
+SONG ; 
+A F#m7 Dadd9-E/D C#m7b5 F#7b13-F# 2X
+Bm Dm C#m7 F#m7 D#m7b5 Esus4-E7 
+Bm Dm C#m7 F#m7 D#m7b5 C#sus4-C#7
+
+CHORUS ; 
+BM7 C#/B B#m7 D#m7 G#m9 C#9 F#11 F#7
+BM7 BmM7 B#m7 D#m7 G#m7 2BAR Bm7 C#SUS4
+
+INTRO ; D#m7 C# B 2X
+
+BRIDGE ; 
+G#m7 SYNC 12 C#7 SYNC 12 B-B#m SYNC 12 D#SUS4-D#7
+G#m7 F#/B# ESUS2 C#SUS4 2BAR C#7 1BAR C#SUS4 STOP
+
+CHORUS ; 
+BM7 C#/B B#m7 Am6 C#11 Bm/F# F#
+BM7 B# D#m7 C# G#m7 F#/B# B C#
+BM7 C#/B B#m7 D#m7 C#11 Bm/F# F# 
+B#SUS4 B# D#m7 D7 G#m7 2BAR F#/B# B C#SUS4-C#7
+
+OUTRO ; D#m7 C# B 2X
+	 
+

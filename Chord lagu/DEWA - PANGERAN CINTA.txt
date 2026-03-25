@@ -1,0 +1,27 @@
+DEWA - PANGERAN CINTA
+
+SEQ ; F#m C#m E D 1X
+
+INTRO ; F#m C#m E D 1X
+
+SONG ; F#m C#m E D 
+       TREM F#-C# G#-C# 2X A-C# 
+       F#m C#m E D 
+
+CHORUS ; F#m C#m E B-C#-D-E 3X
+
+DRUM 4BAR
+
+SONG ; SYNCOP 11 11 F#m C#m E D 
+       FLAT F#m C#m E D 2X 2BAR
+
+CHORUS 3X, RIFF GTR F# G 2X
+
+INTERLUDE MELODI 8X
+
+CHORUS DRUM 3X, CHORUS 6X,
+
+
+
+
+

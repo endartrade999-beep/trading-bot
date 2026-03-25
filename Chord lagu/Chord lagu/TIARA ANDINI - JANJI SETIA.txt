@@ -1,0 +1,29 @@
+TIARA ANDINI - JANJI SETIA 
+
+INTRO KEY ; F#m A G# G 
+	    F#m B
+
+SONG ; E G#m F#m B E B
+       E G#m F#m B Bm7 E
+
+PRE-CHORUS ; A B G#m C#m
+             F#m G#m D THN 2BAR B
+
+CHORUS ; E D#m7 C#m7 B A G#m F#m B
+	 E D#m7 C#m7 B-G# A G#m F#m B
+
+INTRO ; E THN 2BAR A B 
+
+PRE-CHORUS ; A B G#m C#m
+             A G#m D THN 2BAR B
+
+CHORUS 1X, BRIDGE ; C#-C-B-B# 2X
+		    G#-F# G#m A B 123 C#
+
+CHORUS OVER ; F# SYNCOP B# D#m C# B B#m G#m C#-F
+              F# Fm7 D#m C#m B#-B B# G#m C#-D 2X
+	      D#m-D-C# F#-Cm B B# G#m C# 
+	      F# Cm Bm F#
+
+
+

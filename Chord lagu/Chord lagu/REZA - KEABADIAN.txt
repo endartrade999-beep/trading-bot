@@ -1,0 +1,35 @@
+REZA - KEABADIAN
+
+INTRO ; C-A-B-G#-A F-E-A G
+	G-G#-A-G F#-F-E-A D-G-C  
+
+SONG ; E D7 C#m F#m D B E
+       E D7 C#m F#m D E
+    
+CHORUS ; A F#m G# F-F#m D C#m F#-E
+	 E-F-F#-E D#-D-C#- F#-B-E-A THN 3BAR
+
+SONG 2 ;  E D7 C#m F#m D B E
+	  E D7 C#m F#m D E B# G
+
+CHORUS 2 ; C-A-B-G#-A F-E-A G
+	   G-G#-A-G F#-F-E-A D-G-C 
+
+INTERLUDE ; MELODI GITAR G=DO F#m7-5 B E 2X 
+
+BRIDGE    ; E C D F# G A
+
+CHORUS 2 SLOW 1X THN 2BAR A G (A SYNCOP 123 B 123)
+
+CHORUS 3 ; C-A-B-G#-A F-E-A G
+	   G-G#-A-G F#-F-E-A D-G 
+
+OUTRO SLOW ; Am F Dm Em 6X
+
+OUTRO KLIMAKS ; Am F Dm Em 6X
+
+SYNCOP ; E-F-D-D# C# 
+
+
+
+

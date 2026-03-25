@@ -1,0 +1,27 @@
+VIRZHA - AKU LELAKIMU
+
+INTRO KEY ;
+G F#m Bm A G A 2BAR
+
+SONG 1 ;
+Bm D 2BAR Bm C#-D C#m Bm A E/G# 2BAR A
+G D 2BAR G D C#m Bm A E/G# 2BAR A
+
+CHORUS ;
+D C#-Bm G A 2X G 4BAR
+
+SONG 2 ; G D 2BAR G D C#m Bm A Em 2BAR A
+
+CHORUS ;
+D C#-Bm A G A 
+D C#-Bm A G C-B-A HTG 7 
+
+INTRLD MELODI D=DO 2X KE E=DO 1X
+
+CHORUS OCTAVE ;
+E D#-C#m B A D-C#-(D#m7-5)-B
+E G#-C#m B A C D
+
+OUTRO ; 
+E 4BAR C#m A
+E 4BAR C#m B E

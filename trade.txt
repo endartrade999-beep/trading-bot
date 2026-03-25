@@ -1,0 +1,28 @@
+tgl 22 nov 2025
+
+btc entry long ; valid
+83,200
+sl 81,500
+tp1 87,500
+tp2 90k
+
+zec entry short ; in valid
+515
+sl 555
+tp1 470
+tp2 450
+
+tgl 23 nov 2025 ;
+btc
+Entry: $87,200-87,500 (setelah break $87K)
+SL: $85,000
+TP1: $90,000
+TP2: $93,000
+Size: 1.5-2% risk
+Probability: 70% (karena ada konfirmasi)
+
+zec long
+Entry: $570-575 (tunggu bounce/hold)
+SL: $555
+TP: $608
+Size: 50% normal (karena masih uncertain)
