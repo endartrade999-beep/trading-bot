@@ -1,5 +1,0 @@
-ap secret bYBBsNvANys3M7WjYapRxzAKGkRepUGz6pNq
-ap key gGRlsiVOpPHAtwGK5s
-
-cd Desktop
-python auto_bot.py

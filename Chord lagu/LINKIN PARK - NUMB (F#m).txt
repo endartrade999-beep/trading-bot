@@ -1,23 +1,0 @@
-LINKIN PARK - NUMB (F#m)
-
-INTRO : 
-F#m D A E SEQ 1X
-F#m D A E 1X 1BAR
-
-SONG : F#m D A E 2XLGSG
-
-BRIDGE : D E F#m A-C#m D E 1BAR
-
-CHORUS ; F#m D A E 2XLGSG
-
-SONG 2 :F#m D A E 2XLGSG
-
-BRIDGE 2 : D E F#m A-C#m D E F#m A1BAR
-
-CHORUS 3 ; F#m D A E  2X
-
-PRE-BRIDGE 3 : D E F#m G#-A-C#m D E C#3BAR
-
-CHORUS 4 : F#m D A E 4XLGDG
-
-OUTRO KEY 1X

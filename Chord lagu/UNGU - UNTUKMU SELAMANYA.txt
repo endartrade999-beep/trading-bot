@@ -1,18 +1,0 @@
-UNGU - UNTUKMU SELAMANYA
-
-INTRO GTR : A = Do 
-F#M G# A 2X
-
-SONG ; D E A G# F#M D E F#m 4X
-
-CHORUS ; D E A G# F#M D E F#m 2X
-
-MELODI GTR A=Do
-
-CHORUS SLOW :
-GTR blues C#-B-A E A G# F#m 
-GTR dim D E F#m THN 2BAR Sync F#-E-F# 
-
-CHORUS 4X F#-G#-A-B-C#
-
-MELODI OUTRO A = Do 2X INTRO 1X	
