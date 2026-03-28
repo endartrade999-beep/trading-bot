@@ -1,1 +1,1 @@
-python auto_bot_v4.py 
+web: python partial_tp_final.py 
