@@ -16,8 +16,9 @@ import requests, hmac, hashlib, time, csv, os
 from datetime import datetime
 
 # ══════════════════════════════════════════════
-API_KEY    = "rfN7mxutHZXKrW5CM5"
-API_SECRET = "3aeagSHENrmenbXvBj5g4XtD5HMLj6u9kv0Z"
+import os
+API_KEY    = os.environ.get("API_KEY", "rfN7mxutHZXKrW5CM5")
+API_SECRET = os.environ.get("API_SECRET", "3aeagSHENrmenbXvBj5g4XtD5HMLj6u9kv0Z")
 
 BASE_URL     = "https://api-demo.bybit.com"
 PAIR         = "BTCUSDT"
