@@ -14,7 +14,7 @@ import requests, hmac, hashlib, time, csv, os
 from datetime import datetime
 
 # ══════════════════════════════════════════════
-#  KONFIGURASI — ISI API KEY LO SENDIRI
+#  KONFIGURASI
 # ══════════════════════════════════════════════
 API_KEY    = os.environ.get("API_KEY",    "rfN7mxutHZXKrW5CM5")
 API_SECRET = os.environ.get("API_SECRET", "3aeagSHENrmenbXvBj5g4XtD5HMLj6u9kv0Z")
@@ -32,6 +32,11 @@ INTERVAL       = 30
 LOG_FILE       = "partial_tp_v3_log.csv"
 STRONG_BAR_MIN = 0.65
 KONFIRMASI_MIN = 2
+
+SESSION = requests.Session()
+SESSION.request = lambda method, url, **kwargs: requests.Session.request(
+    SESSION, method, url, timeout=15, **kwargs
+)
 
 state = {
     "active": False, "direction": None, "entry": 0,
@@ -51,7 +56,8 @@ def get_req(endpoint, params=None):
     h   = {"X-BAPI-API-KEY": API_KEY, "X-BAPI-TIMESTAMP": ts,
            "X-BAPI-SIGN": sig, "X-BAPI-RECV-WINDOW": rw}
     try:
-        return requests.get(f"{BASE_URL}{endpoint}", params=params, headers=h, timeout=10).json()
+        r = SESSION.get(f"{BASE_URL}{endpoint}", params=params, headers=h, timeout=15)
+        return r.json()
     except Exception as e:
         return {"retCode": -1, "retMsg": str(e)}
 
@@ -64,7 +70,8 @@ def post_req(endpoint, body):
     h   = {"X-BAPI-API-KEY": API_KEY, "X-BAPI-TIMESTAMP": ts,
            "X-BAPI-SIGN": sig, "X-BAPI-RECV-WINDOW": rw, "Content-Type": "application/json"}
     try:
-        return requests.post(f"{BASE_URL}{endpoint}", data=bs, headers=h, timeout=10).json()
+        r = SESSION.post(f"{BASE_URL}{endpoint}", data=bs, headers=h, timeout=15)
+        return r.json()
     except Exception as e:
         return {"retCode": -1, "retMsg": str(e)}
 
@@ -80,8 +87,23 @@ def reset_state():
     state = {"active": False, "direction": None, "entry": 0,
              "tp1": 0, "tp2": 0, "tp1_done": False, "be_done": False}
 
+def test_koneksi():
+    """Test apakah bisa konek ke Bybit demo sebelum mulai loop"""
+    log("🔌 Test koneksi ke api-demo.bybit.com ...")
+    try:
+        r = SESSION.get(f"{BASE_URL}/v5/market/time", timeout=15)
+        data = r.json()
+        if data.get("retCode") == 0:
+            log("✅ Koneksi OK!")
+            return True
+        else:
+            log(f"⚠️ Koneksi response: {data}")
+            return False
+    except Exception as e:
+        log(f"❌ Koneksi GAGAL: {e}")
+        return False
+
 def cek_saldo():
-    """Coba baca saldo, return 0 jika gagal (bot tetap jalan)"""
     try:
         r = get_req("/v5/account/wallet-balance", {"accountType": "UNIFIED", "coin": "USDT"})
         if r.get("retCode") == 0:
@@ -93,7 +115,7 @@ def cek_saldo():
                 if c["coin"] == "USDT":
                     return float(c.get("walletBalance", 0))
     except Exception as e:
-        log(f"⚠️ Cek saldo gagal: {e} (bot tetap jalan)")
+        log(f"⚠️ Cek saldo gagal: {e}")
     return 0
 
 def ambil_candles(limit=100):
@@ -102,17 +124,20 @@ def ambil_candles(limit=100):
             "category": "linear", "symbol": PAIR,
             "interval": TF, "limit": limit
         })
-        if r["retCode"] != 0: return []
+        if r.get("retCode") != 0:
+            log(f"⚠️ Candle error: {r.get('retMsg','')}")
+            return []
         return [{"open": float(c[1]), "high": float(c[2]),
                  "low": float(c[3]), "close": float(c[4]), "volume": float(c[5])}
                 for c in reversed(r["result"]["list"])]
-    except:
+    except Exception as e:
+        log(f"⚠️ Ambil candle gagal: {e}")
         return []
 
 def get_posisi():
     try:
         r = get_req("/v5/position/list", {"category": "linear", "symbol": PAIR})
-        if r["retCode"] != 0: return None
+        if r.get("retCode") != 0: return None
         for p in r["result"]["list"]:
             if float(p["size"]) > 0: return p
         return None
@@ -364,27 +389,41 @@ def main():
 ╚══════════════════════════════════════════════════════╝
 """, flush=True)
 
+    # Test koneksi dulu sebelum mulai
+    for i in range(3):
+        if test_koneksi():
+            break
+        log(f"⏳ Retry koneksi {i+1}/3 dalam 10 detik...")
+        time.sleep(10)
+    else:
+        log("❌ Tidak bisa konek ke Bybit setelah 3x percobaan. Bot berhenti.")
+        return
+
     saldo = cek_saldo()
     if saldo > 0:
         log(f"💰 Saldo Demo: ${saldo:,.2f} USDT")
     else:
-        log(f"💰 Saldo tidak terbaca — bot tetap jalan (saldo demo ada di Bybit)")
+        log(f"💰 Saldo tidak terbaca — bot tetap jalan")
 
     log(f"✅ Bot aktif! Cek sinyal M15 tiap {INTERVAL} detik...")
     log("─" * 55)
 
     while True:
         try:
+            log("🔄 Ambil candle...")
             candles = ambil_candles(100)
             if not candles:
-                time.sleep(INTERVAL); continue
+                log("⚠️ Candle kosong, skip...")
+                time.sleep(INTERVAL)
+                continue
 
             harga               = candles[-1]["close"]
             sinyal, ema, alasan = get_sinyal(candles)
             posisi              = get_posisi()
 
             if not posisi and state["active"]:
-                log("ℹ️  Posisi tertutup (kena SL/TP)"); reset_state()
+                log("ℹ️  Posisi tertutup (kena SL/TP)")
+                reset_state()
 
             trend = "📈 UP" if ema and harga > ema else "📉 DOWN"
 
@@ -403,7 +442,8 @@ def main():
             time.sleep(INTERVAL)
 
         except KeyboardInterrupt:
-            print("\n"); log("⛔ Bot dihentikan.")
+            print("\n")
+            log("⛔ Bot dihentikan.")
             posisi = get_posisi()
             if posisi and input("   Tutup posisi? (y/n): ").strip().lower() == 'y':
                 tutup_semua(posisi, "Manual")
