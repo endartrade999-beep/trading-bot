@@ -32,11 +32,7 @@ INTERVAL       = 30
 LOG_FILE       = "partial_tp_v3_log.csv"
 STRONG_BAR_MIN = 0.65
 KONFIRMASI_MIN = 2
-
-SESSION = requests.Session()
-SESSION.request = lambda method, url, **kwargs: requests.Session.request(
-    SESSION, method, url, timeout=15, **kwargs
-)
+TIMEOUT        = 15
 
 state = {
     "active": False, "direction": None, "entry": 0,
@@ -56,8 +52,7 @@ def get_req(endpoint, params=None):
     h   = {"X-BAPI-API-KEY": API_KEY, "X-BAPI-TIMESTAMP": ts,
            "X-BAPI-SIGN": sig, "X-BAPI-RECV-WINDOW": rw}
     try:
-        r = SESSION.get(f"{BASE_URL}{endpoint}", params=params, headers=h, timeout=15)
-        return r.json()
+        return requests.get(f"{BASE_URL}{endpoint}", params=params, headers=h, timeout=TIMEOUT).json()
     except Exception as e:
         return {"retCode": -1, "retMsg": str(e)}
 
@@ -70,8 +65,7 @@ def post_req(endpoint, body):
     h   = {"X-BAPI-API-KEY": API_KEY, "X-BAPI-TIMESTAMP": ts,
            "X-BAPI-SIGN": sig, "X-BAPI-RECV-WINDOW": rw, "Content-Type": "application/json"}
     try:
-        r = SESSION.post(f"{BASE_URL}{endpoint}", data=bs, headers=h, timeout=15)
-        return r.json()
+        return requests.post(f"{BASE_URL}{endpoint}", data=bs, headers=h, timeout=TIMEOUT).json()
     except Exception as e:
         return {"retCode": -1, "retMsg": str(e)}
 
@@ -88,17 +82,15 @@ def reset_state():
              "tp1": 0, "tp2": 0, "tp1_done": False, "be_done": False}
 
 def test_koneksi():
-    """Test apakah bisa konek ke Bybit demo sebelum mulai loop"""
     log("🔌 Test koneksi ke api-demo.bybit.com ...")
     try:
-        r = SESSION.get(f"{BASE_URL}/v5/market/time", timeout=15)
+        r = requests.get(f"{BASE_URL}/v5/market/time", timeout=TIMEOUT)
         data = r.json()
         if data.get("retCode") == 0:
             log("✅ Koneksi OK!")
             return True
-        else:
-            log(f"⚠️ Koneksi response: {data}")
-            return False
+        log(f"⚠️ Response: {data}")
+        return False
     except Exception as e:
         log(f"❌ Koneksi GAGAL: {e}")
         return False
@@ -389,14 +381,13 @@ def main():
 ╚══════════════════════════════════════════════════════╝
 """, flush=True)
 
-    # Test koneksi dulu sebelum mulai
     for i in range(3):
         if test_koneksi():
             break
         log(f"⏳ Retry koneksi {i+1}/3 dalam 10 detik...")
         time.sleep(10)
     else:
-        log("❌ Tidak bisa konek ke Bybit setelah 3x percobaan. Bot berhenti.")
+        log("❌ Tidak bisa konek ke Bybit setelah 3x. Bot berhenti.")
         return
 
     saldo = cek_saldo()
@@ -410,7 +401,6 @@ def main():
 
     while True:
         try:
-            log("🔄 Ambil candle...")
             candles = ambil_candles(100)
             if not candles:
                 log("⚠️ Candle kosong, skip...")
