@@ -81,10 +81,10 @@ def reset_state():
              "tp1": 0, "tp2": 0, "tp1_done": False, "be_done": False}
 
 def cek_saldo():
-    """Coba semua accountType sampai dapat saldo > 0"""
     for acc_type in ["UNIFIED", "CONTRACT", "SPOT"]:
         try:
             r = get_req("/v5/account/wallet-balance", {"accountType": acc_type, "coin": "USDT"})
+            log(f"🔍 [{acc_type}] retCode:{r.get('retCode')} retMsg:{r.get('retMsg')} data:{str(r.get('result',''))[:200]}")
             if r.get("retCode") == 0:
                 data = r["result"]["list"][0]
                 total = float(data.get("totalWalletBalance", 0))
@@ -96,8 +96,7 @@ def cek_saldo():
                         if val > 0:
                             return val
         except Exception as e:
-            log(f"❌ Error cek saldo [{acc_type}]: {e}")
-            continue
+            log(f"❌ Error [{acc_type}]: {e}")
     return 0
 
 def ambil_candles(limit=100):
