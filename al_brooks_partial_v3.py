@@ -81,24 +81,24 @@ def reset_state():
              "tp1": 0, "tp2": 0, "tp1_done": False, "be_done": False}
 
 def cek_saldo():
-    """Baca saldo dari totalWalletBalance (fix untuk Demo Trading)"""
-    try:
-        r = get_req("/v5/account/wallet-balance", {"accountType": "UNIFIED", "coin": "USDT"})
-        if r["retCode"] == 0:
-            data = r["result"]["list"][0]
-            # Coba baca dari totalWalletBalance dulu
-            total = float(data.get("totalWalletBalance", 0))
-            if total > 0:
-                return total
-            # Fallback: baca dari coin list
-            coins = data.get("coin", [])
-            for c in coins:
-                if c["coin"] == "USDT":
-                    return float(c.get("walletBalance", 0))
-        return 0
-    except Exception as e:
-        log(f"❌ Error cek saldo: {e}")
-        return 0
+    """Coba semua accountType sampai dapat saldo > 0"""
+    for acc_type in ["UNIFIED", "CONTRACT", "SPOT"]:
+        try:
+            r = get_req("/v5/account/wallet-balance", {"accountType": acc_type, "coin": "USDT"})
+            if r.get("retCode") == 0:
+                data = r["result"]["list"][0]
+                total = float(data.get("totalWalletBalance", 0))
+                if total > 0:
+                    return total
+                for c in data.get("coin", []):
+                    if c["coin"] == "USDT":
+                        val = float(c.get("walletBalance", 0))
+                        if val > 0:
+                            return val
+        except Exception as e:
+            log(f"❌ Error cek saldo [{acc_type}]: {e}")
+            continue
+    return 0
 
 def ambil_candles(limit=100):
     try:
