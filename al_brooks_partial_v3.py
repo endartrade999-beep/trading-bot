@@ -81,22 +81,19 @@ def reset_state():
              "tp1": 0, "tp2": 0, "tp1_done": False, "be_done": False}
 
 def cek_saldo():
-    for acc_type in ["UNIFIED", "CONTRACT", "SPOT"]:
-        try:
-            r = get_req("/v5/account/wallet-balance", {"accountType": acc_type, "coin": "USDT"})
-            log(f"🔍 [{acc_type}] retCode:{r.get('retCode')} retMsg:{r.get('retMsg')} data:{str(r.get('result',''))[:200]}")
-            if r.get("retCode") == 0:
-                data = r["result"]["list"][0]
-                total = float(data.get("totalWalletBalance", 0))
-                if total > 0:
-                    return total
-                for c in data.get("coin", []):
-                    if c["coin"] == "USDT":
-                        val = float(c.get("walletBalance", 0))
-                        if val > 0:
-                            return val
-        except Exception as e:
-            log(f"❌ Error [{acc_type}]: {e}")
+    """Coba baca saldo, return 0 jika gagal (bot tetap jalan)"""
+    try:
+        r = get_req("/v5/account/wallet-balance", {"accountType": "UNIFIED", "coin": "USDT"})
+        if r.get("retCode") == 0:
+            data = r["result"]["list"][0]
+            total = float(data.get("totalWalletBalance", 0))
+            if total > 0:
+                return total
+            for c in data.get("coin", []):
+                if c["coin"] == "USDT":
+                    return float(c.get("walletBalance", 0))
+    except Exception as e:
+        log(f"⚠️ Cek saldo gagal: {e} (bot tetap jalan)")
     return 0
 
 def ambil_candles(limit=100):
@@ -368,12 +365,10 @@ def main():
 """, flush=True)
 
     saldo = cek_saldo()
-    log(f"💰 Saldo Demo: ${saldo:,.2f} USDT")
-
-    if saldo < MARGIN_USD:
-        log(f"⚠️  Saldo kurang dari ${MARGIN_USD}!")
-        log(f"   Klik 'Request Demo Funds' di Bybit Demo Trading.")
-        return
+    if saldo > 0:
+        log(f"💰 Saldo Demo: ${saldo:,.2f} USDT")
+    else:
+        log(f"💰 Saldo tidak terbaca — bot tetap jalan (saldo demo ada di Bybit)")
 
     log(f"✅ Bot aktif! Cek sinyal M15 tiap {INTERVAL} detik...")
     log("─" * 55)
