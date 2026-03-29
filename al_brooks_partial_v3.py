@@ -19,7 +19,10 @@ from datetime import datetime
 API_KEY    = os.environ.get("API_KEY",    "rfN7mxutHZXKrW5CM5")
 API_SECRET = os.environ.get("API_SECRET", "3aeagSHENrmenbXvBj5g4XtD5HMLj6u9kv0Z")
 
-BASE_URL       = "https://api-demo.bybit.com"
+# Pakai endpoint real tapi dengan header demo
+BASE_URL       = "https://api.bybit.com"
+DEMO_HEADER    = {"X-BAPI-DEMO": "1"}
+
 PAIR           = "BTCUSDT"
 LEVERAGE       = 40
 MARGIN_USD     = 100
@@ -51,6 +54,7 @@ def get_req(endpoint, params=None):
     sig = hmac.new(API_SECRET.encode(), (ts+API_KEY+rw+q).encode(), hashlib.sha256).hexdigest()
     h   = {"X-BAPI-API-KEY": API_KEY, "X-BAPI-TIMESTAMP": ts,
            "X-BAPI-SIGN": sig, "X-BAPI-RECV-WINDOW": rw}
+    h.update(DEMO_HEADER)
     try:
         return requests.get(f"{BASE_URL}{endpoint}", params=params, headers=h, timeout=TIMEOUT).json()
     except Exception as e:
@@ -64,6 +68,7 @@ def post_req(endpoint, body):
     sig = hmac.new(API_SECRET.encode(), (ts+API_KEY+rw+bs).encode(), hashlib.sha256).hexdigest()
     h   = {"X-BAPI-API-KEY": API_KEY, "X-BAPI-TIMESTAMP": ts,
            "X-BAPI-SIGN": sig, "X-BAPI-RECV-WINDOW": rw, "Content-Type": "application/json"}
+    h.update(DEMO_HEADER)
     try:
         return requests.post(f"{BASE_URL}{endpoint}", data=bs, headers=h, timeout=TIMEOUT).json()
     except Exception as e:
@@ -82,7 +87,7 @@ def reset_state():
              "tp1": 0, "tp2": 0, "tp1_done": False, "be_done": False}
 
 def test_koneksi():
-    log("🔌 Test koneksi ke api-demo.bybit.com ...")
+    log("🔌 Test koneksi ke api.bybit.com ...")
     try:
         r = requests.get(f"{BASE_URL}/v5/market/time", timeout=TIMEOUT)
         data = r.json()
@@ -387,7 +392,7 @@ def main():
         log(f"⏳ Retry koneksi {i+1}/3 dalam 10 detik...")
         time.sleep(10)
     else:
-        log("❌ Tidak bisa konek ke Bybit setelah 3x. Bot berhenti.")
+        log("❌ Tidak bisa konek ke Bybit. Bot berhenti.")
         return
 
     saldo = cek_saldo()
