@@ -16,8 +16,8 @@ from datetime import datetime
 # ══════════════════════════════════════════════
 #  KONFIGURASI
 # ══════════════════════════════════════════════
-API_KEY    = os.environ.get("API_KEY",    "rfN7mxutHZXKrW5CM5")
-API_SECRET = os.environ.get("API_SECRET", "3aeagSHENrmenbXvBj5g4XtD5HMLj6u9kv0Z")
+API_KEY    = "ISI_API_KEY_DISINI"
+API_SECRET = "ISI_API_SECRET_DISINI"
 
 # Pakai endpoint real tapi dengan header demo
 BASE_URL       = "https://api.bybit.com"
